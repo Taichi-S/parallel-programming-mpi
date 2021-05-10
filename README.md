@@ -1,5 +1,9 @@
 # parallel-programming-mpi
 
+## git
+### clone
+```$ git clone https://github.com/Taichi-S/parallel-programming-mpi.git```
+
 ## HowToUse
 ### コンパイル
 ```$ mpicc <cファイル名> -o <実行ファイル名>```
