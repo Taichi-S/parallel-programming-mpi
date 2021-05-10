@@ -16,3 +16,7 @@
 ## ファイル説明
 - hello.c
   - 「Hello MPI World」を指定されたプロセス数で実行
+
+## 参考記事
+一週間でなれる！スパコンプログラマ
+https://kaityo256.github.io/sevendayshpc/
